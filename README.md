@@ -5,8 +5,9 @@ Diseñadora Gráfica y desarrolladora Front-End.
 
 A través del desarrollo web, encontré la manera de poder complementar mi carrera, lo  que me ha permitido conceptualizar y aportar creatividad a los proyectos, para luego ejecutar y dar forma a esas ideas de cara al cliente, apoyándome  siempre en metodologías ágiles. 
 
-- 🔭 Actualmente me encuentro desarrollando una librería para ser ejecutada con Node.js llamada: [MD-Links](https://github.com/Lina-1985-cloud/BOG004-md-links/tree/Develop)
-- 🌱 Actualmente estoy aprendiendo Desarrollo Front-End en [Laboratoria](https://www.laboratoria.la/)
+- 😄 Actualmente estoy desarrollando con una excelente compañera (alossada)[https://github.com/alossada/BOG004-burger-queen-api-client], una aplicación para que los meseros de un restaurante puedan tomar pedidos usando una tablet, y enviarlos a la cocina para que se preparen ordenada y eficientemente.🍔
+- 🔭 Acabo de terminar el  desarrollo de una librería para ser ejecutada con Node.js llamada: [MD-Links](https://github.com/Lina-1985-cloud/BOG004-md-links/tree/Develop)
+- 🌱 Me encuentro aprendiendo Desarrollo Front-End en [Laboratoria](https://www.laboratoria.la/)
 
 Puedes contactarme en mi [Linkedin](https://www.linkedin.com/in/lina-marcela-villa/)
 <!-- -- 👯 I’m looking to collaborate on ...
