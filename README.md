@@ -1,4 +1,5 @@
-### console.log(Hola, Mi nombre es Lina Marcela) 👋 
+### console.log(Hola, Mi nombre es Lina Marcela) 👋     ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+                
 <img src="https://user-images.githubusercontent.com/73502198/165603355-b3a1a687-44bf-48d5-87c9-48448a7ee5b1.jpeg" align="right" width="100" ></a>
 Diseñadora Gráfica y desarrolladora Front-End.
 
